@@ -1,0 +1,1050 @@
+{
+ "307": {
+  "website": "http://apollographql.com/",
+  "yc_url": "https://www.ycombinator.com/companies/apollo",
+  "repo": "https://github.com/apollographql/apollo-client",
+  "stars": 19799
+ },
+ "290": {
+  "website": "http://citusdata.com",
+  "yc_url": "https://www.ycombinator.com/companies/citus-data",
+  "repo": "https://github.com/citusdata/citus",
+  "stars": 12813
+ },
+ "182": {
+  "website": "http://docker.com",
+  "yc_url": "https://www.ycombinator.com/companies/docker",
+  "repo": "https://github.com/docker/cli",
+  "stars": 6090
+ },
+ "126": {
+  "website": "http://rethinkdb.com",
+  "yc_url": "https://www.ycombinator.com/companies/rethinkdb",
+  "repo": "https://github.com/rethinkdb/rethinkdb",
+  "stars": 27005
+ },
+ "377": {
+  "website": "http://mattermost.com",
+  "yc_url": "https://www.ycombinator.com/companies/mattermost",
+  "repo": "https://github.com/mattermost/mattermost",
+  "stars": 39327
+ },
+ "485": {
+  "website": "https://influxdata.com",
+  "yc_url": "https://www.ycombinator.com/companies/influxdata",
+  "repo": "https://github.com/influxdata/influxdb",
+  "stars": 31763
+ },
+ "546": {
+  "website": "http://coreos.com",
+  "yc_url": "https://www.ycombinator.com/companies/coreos",
+  "repo": "https://github.com/etcd-io/etcd",
+  "stars": 52362
+ },
+ "592": {
+  "website": "http://www.pipelinedb.com",
+  "yc_url": "https://www.ycombinator.com/companies/pipelinedb",
+  "repo": "https://github.com/pipelinedb/pipelinedb",
+  "stars": 2664
+ },
+ "681": {
+  "website": "https://protocol.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/protocol-labs",
+  "repo": "https://github.com/ipfs/kubo",
+  "stars": 17152
+ },
+ "776": {
+  "website": "https://sailsjs.com/about",
+  "yc_url": "https://www.ycombinator.com/companies/sails-co",
+  "repo": "https://github.com/balderdashy/sails",
+  "stars": 22782
+ },
+ "756": {
+  "website": "http://gitlab.com/",
+  "yc_url": "https://www.ycombinator.com/companies/gitlab",
+  "repo": "https://github.com/gitlabhq/gitlabhq",
+  "stars": 24551
+ },
+ "736": {
+  "website": "http://standardcyborg.com",
+  "yc_url": "https://www.ycombinator.com/companies/standard-cyborg",
+  "repo": "https://github.com/StandardCyborg/StandardCyborgSDK",
+  "stars": 72
+ },
+ "845": {
+  "website": "http://fontawesome.com",
+  "yc_url": "https://www.ycombinator.com/companies/font-awesome",
+  "repo": "https://github.com/FortAwesome/Font-Awesome",
+  "stars": 76960
+ },
+ "1024": {
+  "website": "https://daily.co",
+  "yc_url": "https://www.ycombinator.com/companies/daily",
+  "repo": "https://github.com/pipecat-ai/pipecat",
+  "stars": 16442
+ },
+ "1507": {
+  "website": "https://tipe.io",
+  "yc_url": "https://www.ycombinator.com/companies/tipe",
+  "repo": "https://github.com/markAPIado/tipe",
+  "stars": 0
+ },
+ "1498": {
+  "website": "http://codestream.com",
+  "yc_url": "https://www.ycombinator.com/companies/codestream",
+  "repo": "https://github.com/TeamCodeStream/codestream-server",
+  "stars": 65
+ },
+ "1642": {
+  "website": "https://activeloop.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/activeloop",
+  "repo": "https://github.com/activeloopai/deeplake",
+  "stars": 9250
+ },
+ "1630": {
+  "website": "http://useoptic.com/",
+  "yc_url": "https://www.ycombinator.com/companies/optic",
+  "repo": "https://github.com/opticdev/optic",
+  "stars": 1531
+ },
+ "1787": {
+  "website": "https://okteto.com",
+  "yc_url": "https://www.ycombinator.com/companies/okteto",
+  "repo": "https://github.com/okteto/okteto",
+  "stars": 3554
+ },
+ "1862": {
+  "website": "https://bun.sh",
+  "yc_url": "https://www.ycombinator.com/companies/bun",
+  "repo": "https://github.com/oven-sh/bun",
+  "stars": 96229
+ },
+ "1975": {
+  "website": "https://www.lunasec.io",
+  "yc_url": "https://www.ycombinator.com/companies/lunasec",
+  "repo": "https://github.com/lunasec-io/lunasec",
+  "stars": 1471
+ },
+ "1974": {
+  "website": "https://embrace.io",
+  "yc_url": "https://www.ycombinator.com/companies/embrace",
+  "repo": "https://github.com/embrace-io/embrace-android-sdk",
+  "stars": 193
+ },
+ "1963": {
+  "website": "https://www.openreplay.com/",
+  "yc_url": "https://www.ycombinator.com/companies/asayer",
+  "repo": "https://github.com/openreplay/openreplay",
+  "stars": 12980
+ },
+ "1944": {
+  "website": "https://www.datamechanics.co",
+  "yc_url": "https://www.ycombinator.com/companies/data-mechanics",
+  "repo": "https://github.com/datamechanics/datamechanics_airflow_plugin",
+  "stars": 3
+ },
+ "1942": {
+  "website": "https://wasmer.io",
+  "yc_url": "https://www.ycombinator.com/companies/wasmer",
+  "repo": "https://github.com/wasmerio/wasmer",
+  "stars": 21155
+ },
+ "2067": {
+  "website": "http://www.chaosgenius.io",
+  "yc_url": "https://www.ycombinator.com/companies/chaos-genius",
+  "repo": "https://github.com/chaos-genius/chaos_genius",
+  "stars": 778
+ },
+ "1931": {
+  "website": "https://www.tensil.ai",
+  "yc_url": "https://www.ycombinator.com/companies/tensil",
+  "repo": "https://github.com/tensil-ai/tensil",
+  "stars": 400
+ },
+ "2168": {
+  "website": "https://www.mindsdb.com/",
+  "yc_url": "https://www.ycombinator.com/companies/mindsdb",
+  "repo": "https://github.com/mindsdb/mindshub",
+  "stars": 39793
+ },
+ "2046": {
+  "website": "https://replicate.com",
+  "yc_url": "https://www.ycombinator.com/companies/replicate",
+  "repo": "https://github.com/replicate/cog",
+  "stars": 9489
+ },
+ "2458": {
+  "website": "",
+  "yc_url": "https://www.ycombinator.com/companies/openbase",
+  "repo": "https://github.com/openbase-community/openbase",
+  "stars": 45
+ },
+ "2379": {
+  "website": "http://fig.io",
+  "yc_url": "https://www.ycombinator.com/companies/fig",
+  "repo": "https://github.com/withfig/autocomplete",
+  "stars": 25211
+ },
+ "2203": {
+  "website": "https://www.posthog.com",
+  "yc_url": "https://www.ycombinator.com/companies/posthog",
+  "repo": "https://github.com/PostHog/posthog",
+  "stars": 40268
+ },
+ "2115": {
+  "website": "https://airbyte.com/",
+  "yc_url": "https://www.ycombinator.com/companies/airbyte",
+  "repo": "https://github.com/airbytehq/airbyte",
+  "stars": 22220
+ },
+ "2330": {
+  "website": "http://www.ukama.com",
+  "yc_url": "https://www.ycombinator.com/companies/ukama",
+  "repo": "https://github.com/ukama/ukama",
+  "stars": 129
+ },
+ "2398": {
+  "website": "https://jitsu.com",
+  "yc_url": "https://www.ycombinator.com/companies/jitsu",
+  "repo": "https://github.com/jitsucom/jitsu",
+  "stars": 5106
+ },
+ "2307": {
+  "website": "https://supertokens.com",
+  "yc_url": "https://www.ycombinator.com/companies/supertokens",
+  "repo": "https://github.com/supertokens/supertokens-core",
+  "stars": 15348
+ },
+ "2327": {
+  "website": "http://lightdash.com/",
+  "yc_url": "https://www.ycombinator.com/companies/hubble",
+  "repo": "https://github.com/lightdash/lightdash",
+  "stars": 6187
+ },
+ "2319": {
+  "website": "https://www.shuttle.dev",
+  "yc_url": "https://www.ycombinator.com/companies/shuttle",
+  "repo": "https://github.com/shuttle-hq/shuttle",
+  "stars": 6914
+ },
+ "2468": {
+  "website": "https://questdb.com/",
+  "yc_url": "https://www.ycombinator.com/companies/questdb",
+  "repo": "https://github.com/questdb/questdb",
+  "stars": 17441
+ },
+ "2342": {
+  "website": "https://monosi.dev",
+  "yc_url": "https://www.ycombinator.com/companies/monosi",
+  "repo": "https://github.com/monosidev/monosi",
+  "stars": 328
+ },
+ "2368": {
+  "website": "https://keydb.dev",
+  "yc_url": "https://www.ycombinator.com/companies/keydb",
+  "repo": "https://github.com/Snapchat/KeyDB",
+  "stars": 12501
+ },
+ "2438": {
+  "website": "https://supabase.com",
+  "yc_url": "https://www.ycombinator.com/companies/supabase",
+  "repo": "https://github.com/supabase/supabase",
+  "stars": 111503
+ },
+ "2266": {
+  "website": "http://trymito.io",
+  "yc_url": "https://www.ycombinator.com/companies/mito",
+  "repo": "https://github.com/mito-ds/mito",
+  "stars": 2653
+ },
+ "2585": {
+  "website": "https://www.webiny.com",
+  "yc_url": "https://www.ycombinator.com/companies/webiny",
+  "repo": "https://github.com/webiny/webiny-js",
+  "stars": 8046
+ },
+ "2506": {
+  "website": "https://authzed.com",
+  "yc_url": "https://www.ycombinator.com/companies/authzed",
+  "repo": "https://github.com/authzed/spicedb",
+  "stars": 7146
+ },
+ "2757": {
+  "website": "https://signoz.io",
+  "yc_url": "https://www.ycombinator.com/companies/signoz",
+  "repo": "https://github.com/SigNoz/signoz",
+  "stars": 32351
+ },
+ "2780": {
+  "website": "https://laudspeaker.com/?ref=bf",
+  "yc_url": "https://www.ycombinator.com/companies/laudspeaker",
+  "repo": "https://github.com/laudspeaker/laudspeaker",
+  "stars": 2629
+ },
+ "2794": {
+  "website": "https://opencode.ai",
+  "yc_url": "https://www.ycombinator.com/companies/opencode",
+  "repo": "https://github.com/anomalyco/opencode",
+  "stars": 213284
+ },
+ "2777": {
+  "website": "https://pyroscope.io/",
+  "yc_url": "https://www.ycombinator.com/companies/pyroscope",
+  "repo": "https://github.com/grafana/pyroscope",
+  "stars": 11700
+ },
+ "2657": {
+  "website": "https://lunatic.solutions/",
+  "yc_url": "https://www.ycombinator.com/companies/lunatic",
+  "repo": "https://github.com/lunatic-solutions/lunatic",
+  "stars": 4892
+ },
+ "2521": {
+  "website": "https://www.alokai.com",
+  "yc_url": "https://www.ycombinator.com/companies/alokai",
+  "repo": "https://github.com/vuestorefront/vue-storefront",
+  "stars": 10957
+ },
+ "2741": {
+  "website": "https://www.chatwoot.com",
+  "yc_url": "https://www.ycombinator.com/companies/chatwoot",
+  "repo": "https://github.com/chatwoot/chatwoot",
+  "stars": 37763
+ },
+ "2748": {
+  "website": "https://infracost.io",
+  "yc_url": "https://www.ycombinator.com/companies/infracost",
+  "repo": "https://github.com/infracost/infracost-azure-devops",
+  "stars": 61
+ },
+ "2708": {
+  "website": "https://www.svix.com",
+  "yc_url": "https://www.ycombinator.com/companies/svix",
+  "repo": "https://github.com/svix/svix-webhooks",
+  "stars": 3446
+ },
+ "2764": {
+  "website": "https://wasp-lang.dev/",
+  "yc_url": "https://www.ycombinator.com/companies/wasp",
+  "repo": "https://github.com/wasp-lang/wasp",
+  "stars": 18768
+ },
+ "2481": {
+  "website": "https://ollama.com",
+  "yc_url": "https://www.ycombinator.com/companies/ollama",
+  "repo": "https://github.com/ollama/ollama",
+  "stars": 183069
+ },
+ "2877": {
+  "website": "https://www.artillery.io",
+  "yc_url": "https://www.ycombinator.com/companies/artillery",
+  "repo": "https://github.com/artilleryio/artillery",
+  "stars": 9094
+ },
+ "2829": {
+  "website": "https://pipekit.io",
+  "yc_url": "https://www.ycombinator.com/companies/pipekit",
+  "repo": "https://github.com/pipekit/talk-demos",
+  "stars": 29
+ },
+ "2866": {
+  "website": "https://www.getlago.com/",
+  "yc_url": "https://www.ycombinator.com/companies/lago",
+  "repo": "https://github.com/getlago/lago",
+  "stars": 10678
+ },
+ "3162": {
+  "website": "https://ensoanalytics.com",
+  "yc_url": "https://www.ycombinator.com/companies/enso",
+  "repo": "https://github.com/enso-org/hiring",
+  "stars": 27
+ },
+ "3007": {
+  "website": "https://formance.com",
+  "yc_url": "https://www.ycombinator.com/companies/formance",
+  "repo": "https://github.com/formancehq/ledger",
+  "stars": 1435
+ },
+ "3072": {
+  "website": "https://evidentlyai.com",
+  "yc_url": "https://www.ycombinator.com/companies/evidently-ai",
+  "repo": "https://github.com/evidentlyai/evidently",
+  "stars": 7987
+ },
+ "3113": {
+  "website": "https://warrant.dev/",
+  "yc_url": "https://www.ycombinator.com/companies/warrant",
+  "repo": "https://github.com/warrant-dev/warrant",
+  "stars": 1340
+ },
+ "2852": {
+  "website": "https://vibekanban.com",
+  "yc_url": "https://www.ycombinator.com/companies/vibe-kanban",
+  "repo": "https://github.com/BloopAI/vibe-kanban",
+  "stars": 28350
+ },
+ "3335": {
+  "website": "https://www.growthbook.io",
+  "yc_url": "https://www.ycombinator.com/companies/growthbook",
+  "repo": "https://github.com/growthbook/growthbook",
+  "stars": 8497
+ },
+ "3430": {
+  "website": "https://rownd.ai",
+  "yc_url": "https://www.ycombinator.com/companies/rownd",
+  "repo": "https://github.com/llama-farm/llamafarm",
+  "stars": 835
+ },
+ "3256": {
+  "website": "http://elementary-data.com/",
+  "yc_url": "https://www.ycombinator.com/companies/elementary",
+  "repo": "https://github.com/elementary-data/elementary",
+  "stars": 2421
+ },
+ "3313": {
+  "website": "https://www.firezone.dev",
+  "yc_url": "https://www.ycombinator.com/companies/firezone",
+  "repo": "https://github.com/firezone/firezone",
+  "stars": 9114
+ },
+ "3212": {
+  "website": "https://lancedb.com",
+  "yc_url": "https://www.ycombinator.com/companies/lancedb",
+  "repo": "https://github.com/lancedb/lancedb",
+  "stars": 11666
+ },
+ "3543": {
+  "website": "https://beam.cloud",
+  "yc_url": "https://www.ycombinator.com/companies/beam",
+  "repo": "https://github.com/beam-cloud/beta9",
+  "stars": 1813
+ },
+ "3588": {
+  "website": "https://requestly.com",
+  "yc_url": "https://www.ycombinator.com/companies/requestly",
+  "repo": "https://github.com/requestly/requestly",
+  "stars": 6754
+ },
+ "3444": {
+  "website": "https://getconvoy.io",
+  "yc_url": "https://www.ycombinator.com/companies/convoy-2",
+  "repo": "https://github.com/frain-dev/convoy",
+  "stars": 2877
+ },
+ "3496": {
+  "website": "https://hydra.so",
+  "yc_url": "https://www.ycombinator.com/companies/hydra",
+  "repo": "https://github.com/duckdb/pg_duckdb",
+  "stars": 3266
+ },
+ "3374": {
+  "website": "https://botcity.dev",
+  "yc_url": "https://www.ycombinator.com/companies/botcity",
+  "repo": "https://github.com/botcity-dev/botcity-framework-core-python",
+  "stars": 144
+ },
+ "3579": {
+  "website": "https://netmaker.io",
+  "yc_url": "https://www.ycombinator.com/companies/netmaker",
+  "repo": "https://github.com/gravitl/netmaker",
+  "stars": 11824
+ },
+ "3653": {
+  "website": "https://www.medplum.com",
+  "yc_url": "https://www.ycombinator.com/companies/medplum",
+  "repo": "https://github.com/medplum/medplum",
+  "stars": 2738
+ },
+ "3697": {
+  "website": "https://hyperdx.io/",
+  "yc_url": "https://www.ycombinator.com/companies/hyperdx",
+  "repo": "https://github.com/hyperdxio/hyperdx",
+  "stars": 9941
+ },
+ "3810": {
+  "website": "https://www.stackup.fi",
+  "yc_url": "https://www.ycombinator.com/companies/stackup",
+  "repo": "https://github.com/stackup-wallet/stackup-bundler",
+  "stars": 241
+ },
+ "3603": {
+  "website": "http://dittofeed.com",
+  "yc_url": "https://www.ycombinator.com/companies/dittofeed",
+  "repo": "https://github.com/dittofeed/dittofeed",
+  "stars": 3004
+ },
+ "3725": {
+  "website": "https://www.activepieces.com",
+  "yc_url": "https://www.ycombinator.com/companies/activepieces",
+  "repo": "https://github.com/activepieces/activepieces",
+  "stars": 25041
+ },
+ "3827": {
+  "website": "https://windmill.dev",
+  "yc_url": "https://www.ycombinator.com/companies/windmill",
+  "repo": "https://github.com/windmill-labs/windmill",
+  "stars": 18175
+ },
+ "3823": {
+  "website": "https://payloadcms.com",
+  "yc_url": "https://www.ycombinator.com/companies/payload",
+  "repo": "https://github.com/payloadcms/payload",
+  "stars": 45236
+ },
+ "4103": {
+  "website": "https://unify.ai",
+  "yc_url": "https://www.ycombinator.com/companies/unify",
+  "repo": "https://github.com/unifyai/unify",
+  "stars": 0
+ },
+ "3797": {
+  "website": "https://mistle.dev",
+  "yc_url": "https://www.ycombinator.com/companies/mistle",
+  "repo": "https://github.com/mistlehq/mistle",
+  "stars": 95
+ },
+ "3822": {
+  "website": "https://anythingllm.com",
+  "yc_url": "https://www.ycombinator.com/companies/anythingllm",
+  "repo": "https://github.com/Mintplex-Labs/anything-llm",
+  "stars": 67034
+ },
+ "3635": {
+  "website": "https://www.grai.io",
+  "yc_url": "https://www.ycombinator.com/companies/grai",
+  "repo": "https://github.com/grai-io/grai-core",
+  "stars": 317
+ },
+ "3772": {
+  "website": "https://lamin.ai",
+  "yc_url": "https://www.ycombinator.com/companies/lamin",
+  "repo": "https://github.com/laminlabs/lamindb",
+  "stars": 418
+ },
+ "3618": {
+  "website": "https://www.firecrawl.dev",
+  "yc_url": "https://www.ycombinator.com/companies/firecrawl",
+  "repo": "https://github.com/firecrawl/firecrawl",
+  "stars": 191263
+ },
+ "3638": {
+  "website": "http://uselotus.io",
+  "yc_url": "https://www.ycombinator.com/companies/lotus",
+  "repo": "https://github.com/uselotus/lotus",
+  "stars": 1841
+ },
+ "4002": {
+  "website": "https://infisical.com",
+  "yc_url": "https://www.ycombinator.com/companies/infisical",
+  "repo": "https://github.com/Infisical/infisical",
+  "stars": 29745
+ },
+ "3993": {
+  "website": "https://reflex.dev",
+  "yc_url": "https://www.ycombinator.com/companies/reflex",
+  "repo": "https://github.com/reflex-dev/reflex",
+  "stars": 28946
+ },
+ "4031": {
+  "website": "https://www.matano.dev",
+  "yc_url": "https://www.ycombinator.com/companies/matano",
+  "repo": "https://github.com/matanolabs/matano",
+  "stars": 1701
+ },
+ "3970": {
+  "website": "https://www.traceloop.com",
+  "yc_url": "https://www.ycombinator.com/companies/traceloop",
+  "repo": "https://github.com/traceloop/openllmetry",
+  "stars": 7488
+ },
+ "4100": {
+  "website": "https://trigger.dev",
+  "yc_url": "https://www.ycombinator.com/companies/trigger-dev",
+  "repo": "https://github.com/triggerdotdev/trigger.dev",
+  "stars": 16533
+ },
+ "4078": {
+  "website": "https://nango.dev",
+  "yc_url": "https://www.ycombinator.com/companies/nango",
+  "repo": "https://github.com/NangoHQ/nango",
+  "stars": 12644
+ },
+ "4004": {
+  "website": "https://langfuse.com",
+  "yc_url": "https://www.ycombinator.com/companies/langfuse",
+  "repo": "https://github.com/langfuse/langfuse",
+  "stars": 35792
+ },
+ "3864": {
+  "website": "https://www.teclada.com/",
+  "yc_url": "https://www.ycombinator.com/companies/teclada",
+  "repo": "https://github.com/KomodoOpenLab/TeclaAccess",
+  "stars": 26
+ },
+ "3950": {
+  "website": "https://www.helicone.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/helicone",
+  "repo": "https://github.com/Helicone/helicone",
+  "stars": 6218
+ },
+ "3986": {
+  "website": "https://www.arroyo.dev",
+  "yc_url": "https://www.ycombinator.com/companies/arroyo",
+  "repo": "https://github.com/ArroyoSystems/arroyo",
+  "stars": 5055
+ },
+ "4000": {
+  "website": "https://www.keephq.dev",
+  "yc_url": "https://www.ycombinator.com/companies/keep",
+  "repo": "https://github.com/keephq/keep",
+  "stars": 12401
+ },
+ "4043": {
+  "website": "https://www.dagworks.io/",
+  "yc_url": "https://www.ycombinator.com/companies/dagworks-inc",
+  "repo": "https://github.com/apache/hamilton",
+  "stars": 2607
+ },
+ "3965": {
+  "website": "https://rivet.dev",
+  "yc_url": "https://www.ycombinator.com/companies/rivet",
+  "repo": "https://github.com/rivet-dev/rivet",
+  "stars": 6290
+ },
+ "4057": {
+  "website": "https://commonpaper.com/",
+  "yc_url": "https://www.ycombinator.com/companies/common-paper",
+  "repo": "https://github.com/CommonPaper/Mutual-NDA",
+  "stars": 64
+ },
+ "4029": {
+  "website": "https://openint.dev",
+  "yc_url": "https://www.ycombinator.com/companies/openint",
+  "repo": "https://github.com/openint-bak/openint",
+  "stars": 10
+ },
+ "3973": {
+  "website": "https://www.buildwithfern.com",
+  "yc_url": "https://www.ycombinator.com/companies/fern",
+  "repo": "https://github.com/fern-api/fern",
+  "stars": 3813
+ },
+ "3880": {
+  "website": "https://vocode.dev",
+  "yc_url": "https://www.ycombinator.com/companies/vocode",
+  "repo": "https://github.com/vocodedev/vocode-core",
+  "stars": 3802
+ },
+ "3959": {
+  "website": "https://www.highlight.io/",
+  "yc_url": "https://www.ycombinator.com/companies/highlight-io",
+  "repo": "https://github.com/highlight/highlight",
+  "stars": 9380
+ },
+ "3951": {
+  "website": "https://www.litellm.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/litellm",
+  "repo": "https://github.com/BerriAI/litellm",
+  "stars": 61184
+ },
+ "3946": {
+  "website": "https://moonrepo.dev",
+  "yc_url": "https://www.ycombinator.com/companies/moonrepo",
+  "repo": "https://github.com/moonrepo/moon",
+  "stars": 4149
+ },
+ "4296": {
+  "website": "https://peerdb.io/",
+  "yc_url": "https://www.ycombinator.com/companies/peerdb",
+  "repo": "https://github.com/PeerDB-io/peerdb",
+  "stars": 3305
+ },
+ "4304": {
+  "website": "https://reworkd.ai",
+  "yc_url": "https://www.ycombinator.com/companies/reworkd",
+  "repo": "https://github.com/reworkd/AgentGPT",
+  "stars": 36281
+ },
+ "4156": {
+  "website": "https://twenty.com",
+  "yc_url": "https://www.ycombinator.com/companies/twenty",
+  "repo": "https://github.com/twentyhq/twenty",
+  "stars": 58299
+ },
+ "4270": {
+  "website": "https://www.skyvern.com/",
+  "yc_url": "https://www.ycombinator.com/companies/skyvern",
+  "repo": "https://github.com/Skyvern-AI/skyvern",
+  "stars": 23195
+ },
+ "4275": {
+  "website": "https://refine.dev",
+  "yc_url": "https://www.ycombinator.com/companies/refine",
+  "repo": "https://github.com/refinedev/refine",
+  "stars": 35860
+ },
+ "4193": {
+  "website": "https://khoj.dev/",
+  "yc_url": "https://www.ycombinator.com/companies/khoj",
+  "repo": "https://github.com/khoj-ai/khoj",
+  "stars": 37677
+ },
+ "4125": {
+  "website": "https://recipeui.com",
+  "yc_url": "https://www.ycombinator.com/companies/recipeui",
+  "repo": "https://github.com/RecipeUI/RecipeUI",
+  "stars": 1325
+ },
+ "4287": {
+  "website": "https://tiptap.dev/",
+  "yc_url": "https://www.ycombinator.com/companies/tiptap",
+  "repo": "https://github.com/ueberdosis/tiptap",
+  "stars": 38709
+ },
+ "4213": {
+  "website": "https://paradedb.com",
+  "yc_url": "https://www.ycombinator.com/companies/paradedb",
+  "repo": "https://github.com/paradedb/paradedb",
+  "stars": 9400
+ },
+ "4239": {
+  "website": "https://flowiseai.com",
+  "yc_url": "https://www.ycombinator.com/companies/flowiseai",
+  "repo": "https://github.com/FlowiseAI/Flowise",
+  "stars": 55501
+ },
+ "4506": {
+  "website": "https://www.onyx.app/",
+  "yc_url": "https://www.ycombinator.com/companies/onyx",
+  "repo": "https://github.com/onyx-dot-app/onyx",
+  "stars": 32443
+ },
+ "4570": {
+  "website": "http://lantern.dev",
+  "yc_url": "https://www.ycombinator.com/companies/lantern-2",
+  "repo": "https://github.com/lanterndata/lantern",
+  "stars": 895
+ },
+ "4422": {
+  "website": "https://tesseral.com",
+  "yc_url": "https://www.ycombinator.com/companies/tesseral",
+  "repo": "https://github.com/tesseral-labs/tesseral",
+  "stars": 1139
+ },
+ "4159": {
+  "website": "https://openpipe.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/openpipe",
+  "repo": "https://github.com/OpenPipe/OpenPipe",
+  "stars": 2834
+ },
+ "4513": {
+  "website": "https://tracecat.com",
+  "yc_url": "https://www.ycombinator.com/companies/tracecat",
+  "repo": "https://github.com/TracecatHQ/tracecat",
+  "stars": 3836
+ },
+ "4342": {
+  "website": "https://withpretzel.com",
+  "yc_url": "https://www.ycombinator.com/companies/pretzel-ai",
+  "repo": "https://github.com/pretzelai/pretzelai",
+  "stars": 2187
+ },
+ "4425": {
+  "website": "https://www.ncompass.tech",
+  "yc_url": "https://www.ycombinator.com/companies/ncompass-technologies",
+  "repo": "https://github.com/nCompass-tech/ncompass",
+  "stars": 10
+ },
+ "4557": {
+  "website": "https://usetusk.ai",
+  "yc_url": "https://www.ycombinator.com/companies/tusk",
+  "repo": "https://github.com/Use-Tusk/tusk-cli",
+  "stars": 142
+ },
+ "4378": {
+  "website": "https://vibrantlabs.com/",
+  "yc_url": "https://www.ycombinator.com/companies/vibrant-labs",
+  "repo": "https://github.com/vibrantlabsai/ragas",
+  "stars": 16014
+ },
+ "4542": {
+  "website": "https://superagent.sh/",
+  "yc_url": "https://www.ycombinator.com/companies/superagent",
+  "repo": "https://github.com/superagent-ai/superagent",
+  "stars": 6763
+ },
+ "4395": {
+  "website": "https://trieve.ai",
+  "yc_url": "https://www.ycombinator.com/companies/trieve",
+  "repo": "https://github.com/devflowinc/trieve",
+  "stars": 2719
+ },
+ "4389": {
+  "website": "https://hatchet.run",
+  "yc_url": "https://www.ycombinator.com/companies/hatchet-run",
+  "repo": "https://github.com/hatchet-dev/hatchet",
+  "stars": 8111
+ },
+ "4803": {
+  "website": "https://mem0.ai",
+  "yc_url": "https://www.ycombinator.com/companies/mem0",
+  "repo": "https://github.com/mem0ai/mem0",
+  "stars": 67137
+ },
+ "4585": {
+  "website": "https://unsloth.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/unsloth-ai",
+  "repo": "https://github.com/unslothai/unsloth",
+  "stars": 77960
+ },
+ "4582": {
+  "website": "https://randomlabs.ai",
+  "yc_url": "https://www.ycombinator.com/companies/random-labs",
+  "repo": "https://github.com/n00el/research",
+  "stars": 0
+ },
+ "4754": {
+  "website": "https://dench.com",
+  "yc_url": "https://www.ycombinator.com/companies/dench-com",
+  "repo": "https://github.com/DenchHQ/DenchClaw",
+  "stars": 1660
+ },
+ "4808": {
+  "website": "https://www.cmux.com",
+  "yc_url": "https://www.ycombinator.com/companies/cmux",
+  "repo": "https://github.com/manaflow-ai/cmux",
+  "stars": 28157
+ },
+ "4709": {
+  "website": "https://opslane.com",
+  "yc_url": "https://www.ycombinator.com/companies/opslane",
+  "repo": "https://github.com/opslane/opslane",
+  "stars": 48
+ },
+ "4646": {
+  "website": "https://www.rowboatlabs.com",
+  "yc_url": "https://www.ycombinator.com/companies/rowboat-labs",
+  "repo": "https://github.com/rowboatlabs/rowboat",
+  "stars": 18012
+ },
+ "5018": {
+  "website": "https://superglue.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/superglue",
+  "repo": "https://github.com/superglue-ai/superglue",
+  "stars": 2065
+ },
+ "4926": {
+  "website": "https://sublingual.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/sublingual",
+  "repo": "https://github.com/sublingual-ai/sublingual-monitoring",
+  "stars": 52
+ },
+ "5057": {
+  "website": "https://confident-ai.com",
+  "yc_url": "https://www.ycombinator.com/companies/confident-ai",
+  "repo": "https://github.com/confident-ai/deepeval",
+  "stars": 18836
+ },
+ "5045": {
+  "website": "https://mastra.ai",
+  "yc_url": "https://www.ycombinator.com/companies/mastra",
+  "repo": "https://github.com/mastra-ai/mastra",
+  "stars": 28801
+ },
+ "4980": {
+  "website": "https://www.corsair.dev",
+  "yc_url": "https://www.ycombinator.com/companies/corsair",
+  "repo": "https://github.com/corsairdev/corsair",
+  "stars": 13936
+ },
+ "5070": {
+  "website": "https://browser-use.com",
+  "yc_url": "https://www.ycombinator.com/companies/browser-use",
+  "repo": "https://github.com/browser-use/browser-use",
+  "stars": 117894
+ },
+ "4929": {
+  "website": "https://www.codevisor.dev",
+  "yc_url": "https://www.ycombinator.com/companies/codevisor",
+  "repo": "https://github.com/851-labs/codevisor",
+  "stars": 17
+ },
+ "5000": {
+  "website": "https://mentra.glass",
+  "yc_url": "https://www.ycombinator.com/companies/mentra",
+  "repo": "https://github.com/Mentra-Community/MentraOS",
+  "stars": 2384
+ },
+ "5195": {
+  "website": "https://getnao.io/",
+  "yc_url": "https://www.ycombinator.com/companies/nao-labs",
+  "repo": "https://github.com/getnao/nao",
+  "stars": 1930
+ },
+ "5206": {
+  "website": "https://cua.ai",
+  "yc_url": "https://www.ycombinator.com/companies/cua",
+  "repo": "https://github.com/trycua/cua",
+  "stars": 29644
+ },
+ "5098": {
+  "website": "https://helix-db.com",
+  "yc_url": "https://www.ycombinator.com/companies/helixdb",
+  "repo": "https://github.com/HelixDB/helix-db",
+  "stars": 6198
+ },
+ "5131": {
+  "website": "https://kaelio.com/",
+  "yc_url": "https://www.ycombinator.com/companies/kaelio",
+  "repo": "https://github.com/Kaelio/ktx",
+  "stars": 1616
+ },
+ "5196": {
+  "website": "https://better-auth.com/",
+  "yc_url": "https://www.ycombinator.com/companies/better-auth",
+  "repo": "https://github.com/better-auth/better-auth",
+  "stars": 30286
+ },
+ "5348": {
+  "website": "https://www.cactuscompute.com/",
+  "yc_url": "https://www.ycombinator.com/companies/cactus-compute",
+  "repo": "https://github.com/cactus-compute/cactus",
+  "stars": 6123
+ },
+ "5311": {
+  "website": "https://traceroot.ai",
+  "yc_url": "https://www.ycombinator.com/companies/traceroot-ai",
+  "repo": "https://github.com/traceroot-ai/traceroot",
+  "stars": 798
+ },
+ "5358": {
+  "website": "https://magnitude.dev",
+  "yc_url": "https://www.ycombinator.com/companies/magnitude",
+  "repo": "https://github.com/magnitudedev/magnitude",
+  "stars": 6718
+ },
+ "5328": {
+  "website": "https://pangolin.net",
+  "yc_url": "https://www.ycombinator.com/companies/pangolin",
+  "repo": "https://github.com/fosrl/pangolin",
+  "stars": 23083
+ },
+ "5282": {
+  "website": "https://epicenter.so",
+  "yc_url": "https://www.ycombinator.com/companies/epicenter",
+  "repo": "https://github.com/EpicenterHQ/epicenter",
+  "stars": 4822
+ },
+ "5326": {
+  "website": "https://manufact.com",
+  "yc_url": "https://www.ycombinator.com/companies/manufact",
+  "repo": "https://github.com/mcp-use/mcp-use",
+  "stars": 10755
+ },
+ "5246": {
+  "website": "https://char.com",
+  "yc_url": "https://www.ycombinator.com/companies/char",
+  "repo": "https://github.com/fastrepl/anarlog",
+  "stars": 9496
+ },
+ "5356": {
+  "website": "https://stagewise.io",
+  "yc_url": "https://www.ycombinator.com/companies/stagewise",
+  "repo": "https://github.com/stagewise-io/stagewise",
+  "stars": 6826
+ },
+ "5330": {
+  "website": "https://modelence.com",
+  "yc_url": "https://www.ycombinator.com/companies/modelence",
+  "repo": "https://github.com/modelence/modelence",
+  "stars": 431
+ },
+ "5503": {
+  "website": "https://s2.dev",
+  "yc_url": "https://www.ycombinator.com/companies/s2-dev",
+  "repo": "https://github.com/s2-streamstore/s2",
+  "stars": 759
+ },
+ "5453": {
+  "website": "https://www.expectedparrot.com",
+  "yc_url": "https://www.ycombinator.com/companies/expected-parrot",
+  "repo": "https://github.com/expectedparrot/edsl",
+  "stars": 504
+ },
+ "5482": {
+  "website": "https://www.sourcebot.dev/",
+  "yc_url": "https://www.ycombinator.com/companies/sourcebot",
+  "repo": "https://github.com/sourcebot-dev/sourcebot",
+  "stars": 3991
+ },
+ "6087": {
+  "website": "https://onetriangle.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/onetriangle"
+ },
+ "5691": {
+  "website": "https://www.runanywhere.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/runanywhere",
+  "repo": "https://github.com/RunanywhereAI/runanywhere-sdks",
+  "stars": 10319
+ },
+ "5739": {
+  "website": "https://www.zenbu.dev/",
+  "yc_url": "https://www.ycombinator.com/companies/zenbu-2",
+  "repo": "https://github.com/zenbu-labs/zenbu-release",
+  "stars": 16
+ },
+ "5857": {
+  "website": "https://superlog.sh/",
+  "yc_url": "https://www.ycombinator.com/companies/superlog",
+  "repo": "https://github.com/superloglabs/superlog",
+  "stars": 1460
+ },
+ "6063": {
+  "website": "https://orchestra.ai/",
+  "yc_url": "https://www.ycombinator.com/companies/orchestra",
+  "repo": "https://github.com/orchestral/platform",
+  "stars": 308
+ },
+ "6018": {
+  "website": "https://www.graphify.com/",
+  "yc_url": "https://www.ycombinator.com/companies/graphify-labs",
+  "repo": "https://github.com/Graphify-Labs/graphify",
+  "stars": 126225
+ },
+ "6009": {
+  "website": "https://tracerml.ai",
+  "yc_url": "https://www.ycombinator.com/companies/tracer",
+  "repo": "https://github.com/adrida/tracer",
+  "stars": 1034
+ },
+ "6062": {
+  "website": "https://onecli.sh",
+  "yc_url": "https://www.ycombinator.com/companies/onecli",
+  "repo": "https://github.com/onecli/onecli",
+  "stars": 3569
+ },
+ "6088": {
+  "website": "https://robocurve.org",
+  "yc_url": "https://www.ycombinator.com/companies/robocurve",
+  "repo": "https://github.com/robocurve/inspect-robots",
+  "stars": 673
+ },
+ "6291": {
+  "website": "https://www.lucebox.com/",
+  "yc_url": "https://www.ycombinator.com/companies/lucebox",
+  "repo": "https://github.com/Luce-Org/lucebox",
+  "stars": 2916
+ },
+ "6186": {
+  "website": "https://openseo.so/",
+  "yc_url": "https://www.ycombinator.com/companies/openseo",
+  "repo": "https://github.com/open-seo/open-seo",
+  "stars": 0
+ },
+ "6174": {
+  "website": "https://acyclic.dev",
+  "yc_url": "https://www.ycombinator.com/companies/acyclic",
+  "repo": "https://github.com/acyclic-labs/sdk",
+  "stars": 32
+ }
+}
